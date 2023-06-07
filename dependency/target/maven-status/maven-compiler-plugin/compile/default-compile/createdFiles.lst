@@ -1,0 +1,3 @@
+com\credibanco\dependency\DependencyApplication.class
+com\credibanco\dependency\dto\UsuarioDTORequest.class
+com\credibanco\dependency\dto\UsuarioDTOResponse.class
